@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\obj\Debug\NguyenDangTanHung_5951071126.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\obj\Debug\NguyenDangTanHung_5951071126.Form1.resources
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\obj\Debug\NguyenDangTanHung_5951071126.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\obj\Debug\NguyenDangTanHung_5951071126.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\obj\Debug\NguyenDangTanHung_5951071126.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\bin\Debug\NguyenDangTanHung_5951071126.exe.config
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\bin\Debug\NguyenDangTanHung_5951071126.exe
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\bin\Debug\NguyenDangTanHung_5951071126.pdb
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\obj\Debug\NguyenDangTanHung_5951071126.exe
+C:\Users\ASUS\source\repos\NguyenDangTanHung_5951071126\NguyenDangTanHung_5951071126\obj\Debug\NguyenDangTanHung_5951071126.pdb
